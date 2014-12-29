@@ -1,0 +1,9 @@
+<WebAccess version="11.0">
+  <plugin name="Checkbox List Control" vendor="TFSCommunity" moreinfo="https://github.com/ambilykk/tfswitcustomcontrols" version="1.0.0" >
+  <modules >
+    <module namespace="TFS.WorkItemTracking.Controls.CheckboxListControl" kind="TFS.WorkItem.CustomControl"/>  
+  </modules>
+  </plugin>
+</WebAccess>
+
+
