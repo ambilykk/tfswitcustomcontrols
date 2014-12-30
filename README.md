@@ -1,7 +1,11 @@
 TFS 2013 Work Item custom Controls
 ====================
 
-Team Foundation Server 2013 Work Item Custom Controls for TFS Web access and Visual Studio. TFS provides built-in controls to customize work item types, which may not meet specific requirements. TFS provide lot of extensibility points to customize the work items to match the specific requirements. Here, we will publish set of custom controls which can address the common requirements of TFS work item tracking customization.
+Team Foundation Server 2013 Work Item Custom Controls for TFS Web access and Visual Studio. 
+
+TFS provides set of controls to customize the work items like Bug, testcase, and so on. Built-in controls are limited in number and functionality and often require new controls to support the project or organization specific requirements. 
+
+TFS provides lot of extensibility points to develop new custom controls for web access and Visual Studio. This Repository is to publish set of custom controls which can address the common requirements of TFS work item customization to GitHub. Currently the collection consists of three web access controls and one Visual Studio control. More controls will be added to the repository. 
 
 
 <b>CheckboxListControl</b>
